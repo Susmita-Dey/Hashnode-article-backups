@@ -17,7 +17,10 @@ You may check out similar type of room on TryHackMe: [Intro to digital forensics
 ### *Answer the questions below*
 
 **Uncover and scan the QR code to retrieve the flag!**
-> flag{e08e6ce2f077a1b420cfd4a5d1a57a8d}
+<details>
+<summary>Secret</summary>
+flag{e08e6ce2f077a1b420cfd4a5d1a57a8d}
+</details>
 
 If you follow my approach then it would be pretty simple and also it's very much unintended. There are many ways to solve this question. One can be downloading the pdf file and extracting the qr code and decoding the image, etc. 
 
