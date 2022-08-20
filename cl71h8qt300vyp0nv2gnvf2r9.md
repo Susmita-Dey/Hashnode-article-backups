@@ -16,15 +16,11 @@ You may check out similar type of room on TryHackMe: [Intro to digital forensics
 
 ### *Answer the questions below*
 
-**Uncover and scan the QR code to retrieve the flag!**
-<details>
-<summary>Secret</summary>
-flag{e08e6ce2f077a1b420cfd4a5d1a57a8d}
-</details>
+**Q. Uncover and scan the QR code to retrieve the flag!**
 
 If you follow my approach then it would be pretty simple and also it's very much unintended. There are many ways to solve this question. One can be downloading the pdf file and extracting the qr code and decoding the image, etc. 
 
-My approach:
+***My approach:***
 I just started the attackbox and the machine attached to the room and then the opened the PDF file. Then I clicked on the text and dragged it to that folder which  created a new image file. After that I just opened it and scanned the proper QR code with my phone and just got the flag. Copied it and pasted into the answer and it's done. 
 
 **Note:** I would recommend you to follow your own way of finding the flag before going with mine.
