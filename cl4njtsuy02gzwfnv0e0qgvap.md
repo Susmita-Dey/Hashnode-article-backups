@@ -1,4 +1,4 @@
-## Getting Started With React.js
+# Getting Started With React.js
 
 ## Introduction to React
 React is a JavaScript-based library used for making static **Single Page Web Applications**. This was developed by Facebook. This helps in breaking down complex UI into simpler components. ReactJS has a high market in the field of Web development and it's increasing every day.
