@@ -1,4 +1,4 @@
-## Use Emojis Anywhere You Like In Windows
+# Use Emojis Anywhere You Like In Windows
 
 ### Intro
 Are you a Windows user and you want to use emojis anywhere you like on your system?
