@@ -1,4 +1,4 @@
-## Text Overlay on an Image Using HTML & CSS
+# Text Overlay on an Image Using HTML & CSS
 
 ### Do you know how to fill an image with text and make it a little blur using HTML and CSS (Text Overlay on an Image)?
 > Today we'll learn  how to make a text overlay on an image using HTML and CSS.
