@@ -1,4 +1,4 @@
-## 5 most important tips every programmer should know
+# 5 most important tips every programmer should know
 
 ## 5 most important tips every programmer should know to increase their coding skills
 
