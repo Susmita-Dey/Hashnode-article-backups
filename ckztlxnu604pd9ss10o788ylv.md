@@ -1,4 +1,4 @@
-## Getting Started With Python
+# Getting Started With Python
 
 ## Introduction to Python
 > Python is a simple, well-structured, easy-to-read syntax interpreted high-level programming language.
