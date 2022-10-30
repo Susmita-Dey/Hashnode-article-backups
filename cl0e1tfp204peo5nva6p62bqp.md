@@ -1,4 +1,4 @@
-## Getting Started With C Programming Language
+# Getting Started With C Programming Language
 
 ## What is C?
 C is a general-purpose, procedural, middle-level programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system.
