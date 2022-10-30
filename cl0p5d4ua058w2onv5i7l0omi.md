@@ -1,4 +1,4 @@
-## Blogging As Your Next Income 💰
+# Blogging As Your Next Income 💰
 
 ## What is Blogging?
 Blogging is something like documenting your learnings in an article. 
