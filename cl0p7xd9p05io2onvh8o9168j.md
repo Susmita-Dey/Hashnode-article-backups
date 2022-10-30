@@ -1,4 +1,4 @@
-## Variables and Datatypes in Python
+# Variables and Datatypes in Python
 
 # Variables
 As the name suggests, variables means something that can vary. That means, something that can be changed.      
