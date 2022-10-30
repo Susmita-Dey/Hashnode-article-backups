@@ -1,4 +1,4 @@
-## Sukoon - A Website to get relief from stress
+# Sukoon - A Website to get relief from stress
 
 Hello, everyone 👋
 Today we're gonna get introduced to **Sukoon**. We'll know about its idea, history, birth, making it up, and serving people. Now, this might sound typical to you. But wait for a while and read the full blog.
