@@ -1,4 +1,4 @@
-## Watch Star Wars Movie In Command Prompt(cmd)
+# Watch Star Wars Movie In Command Prompt(cmd)
 
 ## Do you wanna watch STAR WARS Movie through Command Prompt?
 > If yes, then go ahead and follow the instructions below. 😊
