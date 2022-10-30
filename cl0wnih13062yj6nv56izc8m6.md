@@ -1,4 +1,4 @@
-## Some of my Graphic Designs and Video Editing Work on Canva
+# Some of my Graphic Designs and Video Editing Work on Canva
 
 Today I wanna showcase some of my designs on Canva.
 
