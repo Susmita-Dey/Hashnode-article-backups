@@ -1,4 +1,4 @@
-## Make Your First Contribution To Open Source
+# Make Your First Contribution To Open Source
 
 ## Open Source is something awesome. It will make you fall in love with it.
 
