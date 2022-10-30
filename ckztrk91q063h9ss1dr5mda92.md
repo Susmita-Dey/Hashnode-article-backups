@@ -1,4 +1,4 @@
-## Play Song In Python Using PlaySound Module
+# Play Song In Python Using PlaySound Module
 
 Hello everyone!! Today we will discuss on how to play song or music using playsound module in  python. 
 
