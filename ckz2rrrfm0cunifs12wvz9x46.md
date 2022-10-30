@@ -1,4 +1,4 @@
-## Swapping Of Two Numbers In Python in One Line
+# Swapping Of Two Numbers In Python in One Line
 
 ## Do you know that using only just 1 line of code in Python you can Swap 2 numbers without using any third variable?
 
