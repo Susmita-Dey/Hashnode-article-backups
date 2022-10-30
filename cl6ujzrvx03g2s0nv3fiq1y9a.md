@@ -1,4 +1,4 @@
-## Introductory Networking : TryHackMe Room Walkthrough
+# Introductory Networking : TryHackMe Room Walkthrough
 
 Hello everyone, I'm back with another article for you people. 
 
