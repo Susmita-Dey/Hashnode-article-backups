@@ -1,4 +1,4 @@
-## My plans for 2023 Hackathon Season
+# My plans for 2023 Hackathon Season
 
 Hello everyone 👋 I'm back with this new article and a new challenge with you. In this article, I'll share some tips and hacks about hackathons and my experiences of participating in MLH GHW INIT 2023 hackathon.
 
