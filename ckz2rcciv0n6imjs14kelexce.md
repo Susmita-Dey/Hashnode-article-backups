@@ -1,4 +1,4 @@
-## Return Statement in Programming Languages
+# Return Statement in Programming Languages
 
 In this article we'll learn about Return Statement and how it is being used in programming and it's process of execution and termination.
 
