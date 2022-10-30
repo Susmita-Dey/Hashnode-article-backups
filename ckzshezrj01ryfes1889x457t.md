@@ -1,4 +1,4 @@
-## Getting Started With Shell Scripting(Shell Programming)
+# Getting Started With Shell Scripting(Shell Programming)
 
 ## What is a Shell?
 
