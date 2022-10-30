@@ -1,4 +1,4 @@
-## My 3-months Open Source Journey at GSSoC'22
+# My 3-months Open Source Journey at GSSoC'22
 
 Hello folks!! In this blog, I want to share my journey and experiences of participating for the first in an open-source program like GirlScript Summer of Code as a contributor. 
 
