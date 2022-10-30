@@ -1,4 +1,4 @@
-## My Experiences of Participating in Holiday Hacks Hackathon
+# My Experiences of Participating in Holiday Hacks Hackathon
 
 ## Before Participation
 I came across a website named [Devfolio](https://devfolio.co/) via my friend's reference. Actually one of my friend had participated in a hackathon named as [Hack4Bengal](https://hack4bengal.tech/) and they had to submit their project on the Devfolio dashboard. So, I asked him to show me what project he and his teammates have made together and what is a hackathon and other stuffs and details of participating in a hackathon as I have never participated in any hackathon before. 
