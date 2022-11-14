@@ -24,6 +24,16 @@ Here some of the terms might be tricky for you which is completely fine if you a
 
 **Open Source software** in simple terms means a software/project whose source code is open and accessible to everyone on the internet no matter if the project is small, tiny, or big. These kinds of projects are uploaded on some platforms like [GitHub](https://github.com/), [GitLab](https://gitlab.com/), [Bitbucket](https://bitbucket.org/product/), etc., by the owner of the project or by the organization.
 
+Some of the popular Open Source Software are: 
+- GNU/Linux
+- Mozilla Firefox
+- VLC media player
+- SugarCRM
+- GIMP
+- VNC
+- Apache web server
+- LibreOffice
+
 ### Version Control
 
 **Version Control** is the process of tracking your source code of a project after every commit. 
