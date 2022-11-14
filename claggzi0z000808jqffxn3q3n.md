@@ -350,6 +350,36 @@ This is okay but don't go crazy behind it because apart from these you might als
 
 ---
 
+## Open Source Programs
+
+Open Source Programs are the best practices to join in and connect with various folks and project maintainers while contributing to different projects and leveraging up the GitHub contribution graph. Some open source program offers swags to the top contributors and certificates for all. There are also some Open Source programs like **Google Summer of Code(GSoC)** that provides stipend. 
+
+Some of them are listed below.
+- [Google Summer of Code(GSoC)](https://summerofcode.withgoogle.com/)
+- [GirlScript Summer of Code(GSSoC)](https://gssoc.girlscript.tech/)
+- [GirlScript Winter of Code(GWoC)](https://gwoc.girlscript.tech/)
+- [Hacktoberfest](https://hacktoberfest.com/)
+- [Social Summer of Code(SSoC)](https://ssoc.devfolio.co/)
+- [Social Winter of Code(SWoC)](https://swoc.getsocialnow.co/#)
+
+Alternatively you may check out this blog on "[25+ Paid Open Source Programs and Internships](https://blog.commclassroom.org/25-paid-open-source-programs-and-internships)" by @[Karuna Tata](@starlightknown).
+
+![open-source.gif](https://media.tenor.com/LOCixsaRx5MAAAAd/freakandy.gif align="center")
+
+---
+
+## Open Source Communities
+
+Communities are a great way to get into Open Source, collaborate and learn with each other. Following are some of the list of Open Source communities on Discord that will help you level up your Open Source journey and career.
+
+1. [EddieHub Community](http://discord.eddiehub.org/)
+2. [Community Classroom](https://discord.gg/commclassroom)
+3. [4C Community](https://discord.gg/SntDwJgMfS)
+4. [Tech With Susmita](https://discord.gg/g7FmxB9uZp)
+5. [Major League Hacking](https://discord.gg/mlh)
+
+---
+
 That's all for today. Hope all went well and you enjoyed the article.
 
 Don't forget that **each and every contribution matters neither less of being small or big, code or low-code or documentation fixes**. More powers to you. 💪 
