@@ -1,4 +1,4 @@
-# Build Your Own QR Code Using Python 🐍
+# Make Your Own QR Code Easily with Pythonon 🐍
 
 Hello everyone 👋 I'm back with another blog for you all which will help you to generate your QR code in just a few simple steps by using Python.
 
