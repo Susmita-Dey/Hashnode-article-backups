@@ -1,4 +1,13 @@
-# Make Your Own QR Code Easily with Pythonon 🐍
+---
+title: "Make Your Own QR Code Easily with Python🐍"
+datePublished: Fri Dec 02 2022 09:39:13 GMT+0000 (Coordinated Universal Time)
+cuid: clb6bdgye000d08mq6aa53vg6
+slug: make-your-own-qr-code-easily-with-python
+canonical: https://www.showwcase.com/show/18869/build-your-own-qr-code-using-python
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ENtCxRV1Boo/upload/v1669815089851/OaKpj7baK.jpeg
+tags: python, python3, 2articles1week, python-projects
+
+---
 
 Hello everyone 👋 I'm back with another blog for you all which will help you to generate your QR code in just a few simple steps by using Python.
 
