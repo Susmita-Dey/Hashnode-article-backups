@@ -14,6 +14,8 @@ tags: productivity, project-management, appwrite, appwritehackathon
 
 Are you looking for a comprehensive project management tool that not only helps you stay organized but also boosts your productivity to new heights? Look no further!
 
+![I Have Done Nothing Productive All Day GIF - Lazy Productive Nope GIFs](https://media.tenor.com/Lq-vXACNqWEAAAAC/lazy-productive.gif align="center")
+
 Introducing **ProManager**, a feature-packed application designed to streamline your workflow, enhance collaboration, and keep you motivated throughout your projects. Whether you're a student, professional, or entrepreneur, ProManager is your go-to solution for efficient project management.
 
 I'm glad to participate in the [Appwrite](https://appwrite.io) x [Hashnode](https://hashnode.com) Hackathon and learn about Appwrite with Next.js and built a super cool application to boost productivity.
@@ -34,27 +36,31 @@ ProManager is the ultimate productivity tool designed to supercharge your effici
 
 ## The Power of ProManager
 
-At ProManager, we understand the challenges of managing multiple tasks, staying focused, and achieving project goals. That's why we've developed a suite of powerful features to address these pain points and help you excel in your projects. Let's explore some of the key features that make ProManager an indispensable tool for productivity enthusiasts:
+At ProManager, we understand the challenges of managing multiple tasks, staying focused, and achieving project goals. That's why we've developed a suite of powerful features to address these pain points and help you excel in your projects. Let's explore some of the **<mark>key features</mark>** that make ProManager an indispensable tool for productivity enthusiasts:
 
 ### 1\. Tasklist
 
-Stay organized and on top of your tasks with our intuitive Tasklist feature. Create, prioritize, and manage your to-do items effortlessly. With ProManager, you'll never miss a deadline again.
+Effortlessly manage your tasks with ProManager's intuitive Tasklist feature. Create, update, and delete tasks with ease, ensuring you stay on top of your priorities. Say goodbye to missed deadlines and hello to seamless task management.
 
 ### 2\. Kanban
 
-Visualize your workflow and track the progress of your tasks using our Kanban board. Move tasks across different stages, such as "To Do," "In Progress," and "Done," and get a clear overview of your project's status at a glance.
+Visualize your workflow and track the progress of your tasks using our Kanban board. Move tasks across different stages, such as "**To Do**," "**In Progress**," and "**Done**," and get a clear overview of your project's status at a glance.
 
-### 3\. Tick-Tock
+### 3\. Diary Note
 
-Take control of your time management with our built-in Stopwatch and Pomodoro Timer. Use the Stopwatch to track time spent on specific activities, and leverage the Pomodoro Timer to implement the popular time management technique and enhance your focus and productivity.
+Unleash your creativity and capture your thoughts, ideas, and important information with ease using ProManager's Note Writing feature. Seamlessly create and save notes, ensuring that every valuable insight is securely stored for future reference. Stay organized and never let brilliant ideas slip away again.
 
-### 4\. Diary Note
+![](https://lh3.googleusercontent.com/A00xJPvuS1nSpoMMgyl2_7Gf4o7TZO3o1qiO2d-_571NOyNgQMNxgU26cxDXrhd4DBjqqsHRtv6c1xgQ5r7gErjj_j1DSIPG0w_hg3ddzVTp2Z1XbsZIB7CdfV4nrneer0E95A6phWLaTfu2KuHqoGY align="left")
 
-Capture your ideas, thoughts, and important information with our Note Writing feature. Create and save notes effortlessly, ensuring that no valuable insights slip through the cracks.
+### 4\. Tick-Tock
+
+Take control of your time management with our built-in **Stopwatch** and **Pomodoro Timer**. Use the Stopwatch to track time spent on specific activities, and leverage the Pomodoro Timer to implement the popular *time management* technique and enhance your focus and productivity.
 
 ### 5\. Progress Tracker
 
-Track your project's progress and jot down important details using our Progress Tracker. Stay organized and monitor your achievements throughout your project's lifecycle.
+With ProManager's Progress Tracker, you can easily monitor and track the progress of your projects while keeping all the important details in one place. Stay organized and gain valuable insights as you navigate through the various stages of your project's lifecycle. Set **milestones**, record **accomplishments**, and stay on top of deadlines. Whether you're working on **personal endeavors**, professional assignments, or collaborative ventures, ProManager's Progress Tracker ensures you have a clear view of your project's journey and empowers you to achieve success. Stay in control and make informed decisions with ProManager's comprehensive Progress Tracker.
+
+![](https://lh4.googleusercontent.com/9-jMC3ysR0oFWXnCnXoueDDTTm_PGjEpO2elyT1_YNLqNtIx9z6Hd9G5MhtTIFQG4wGEoAg8TYnpPGKizsJHrkcjZpyMUMyX8INWy8QioTKSVNM2jYZE1nNOl3_TLrTYmTNQe0EC4Ocdto_64oEfEuY align="left")
 
 ### 6\. Idealist
 
@@ -64,11 +70,17 @@ Spark your creativity and store your project ideas in one place. The Project Ide
 
 Discover valuable tips and techniques to boost your productivity. ProManager provides a curated collection of productivity tips to help you optimize your workflow and accomplish more in less time.
 
+![](https://lh4.googleusercontent.com/7JICzqAuiQc48DdZS5KT8yNioqGcSaTov3sma8DdWWLGjrLuvOoont4Iyym7tCrn1raiDD5xaSixVdOPLhxCezfVBkIU_j4GrjpcHr-2xjHeWr-GrtEpCzhHvGvAbtDkYJsFP8MOkj37NCJPmrh2jkc align="left")
+
 ### 8\. Useful Quotes
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 Need a dose of motivation? ProManager presents a selection of inspiring quotes to uplift your spirits and keep you motivated on your journey toward success.
+
+Apart from all of the above features we have a beautiful dashboard for our users. Wanna have a sneak peek into it? 👀 It's below!!
+
+![](https://lh3.googleusercontent.com/G4DkCURsdst44Q3gQanLvwO3Bwedj8lVw_H5mvZJd3Nc4kKkM1NKW6bSn9DZsQV1yqozdIq7Pb-Y0KVozcTzuvk7VyYo05YlK0TqOAq1mZyeWaQvg9X-mttoVMuW0T7iZZck1WxeUiSuBtlmJWNmmss align="left")
 
 ---
 
@@ -78,24 +90,24 @@ ProManager's front end is built using Next.js, a robust React framework known fo
 
 Our project utilizes the following tech stack:
 
-* **Next.js**: We've developed the complete front-end using Next.js, taking advantage of its powerful features.
+* [**Next.js**](https://nextjs.org/): We've developed the complete frontend using Next.js, taking advantage of its powerful features.
     
-* React.js: We've incorporated React hooks and states, along with various packages, to enhance the functionality of the application.
+* [**React.js**](https://react.dev/): We've incorporated React hooks and states, along with various packages, to enhance the functionality of the application.
     
-* Tailwind CSS: We've employed Tailwind CSS for styling the entire application, providing a visually appealing and consistent design.
+* [**Tailwind CSS**](https://tailwindcss.com/): We've employed Tailwind CSS for styling the entire application, providing a visually appealing and consistent design.
     
-* **Appwrite Cloud**: To power the backend and store user data, we rely on Appwrite Cloud services:
+* [**Appwrite Cloud**](https://cloud.appwrite.io/): To power the backend and store user data, we rely on Appwrite Cloud services:
     
     * **Authentication**: Appwrite's Authentication feature allows users to sign up or log in to their ProManager accounts securely.
         
-    * **Database**: We leverage the Appwrite Database service to store and manage user data associated with the various features of the application.
+    * **Database**: We leverage the Appwrite Database service to store and manage user data associated with the various features of the application. There are a total of ***6 collections*** to manage the current features and services of ProManager.
         
     * **Storage**: Appwrite's Storage service enables users to upload and store images for different sections of the application, enhancing data management capabilities.
         
     * **Cloud Functions** - Node.js: We utilize Appwrite's Cloud Functions to enable users to delete their accounts with a simple button click, enhancing their control over their data.
         
 
-For seamless deployment of our application, we rely on **Vercel**, a robust platform that ensures the smooth hosting and management of our ProManager project.
+For **seamless deploymen**t of our application, we rely on [**Vercel**](https://vercel.com/), a robust platform that ensures the smooth hosting and management of our ProManager project.
 
 Overall, this tech stack empowers us to create a feature-rich and reliable project management application that meets the needs of our users.
 
@@ -103,7 +115,7 @@ Overall, this tech stack empowers us to create a feature-rich and reliable proje
 
 ## Secure Data Storage with Appwrite
 
-At ProManager, we prioritize the security and privacy of your data. That's why we've chosen Appwrite as our backend solution. Appwrite provides a reliable and secure cloud infrastructure to store and manage your data. Leveraging Appwrite's Email Auth service, ProManager ensures secure access to your account, protecting your sensitive information.
+At ProManager, we prioritize the security and privacy of your data. That's why we've chosen Appwrite as our backend solution. Appwrite provides a reliable and secure cloud infrastructure to store and manage your data. Leveraging **Appwrite's Email Auth** service, ProManager ensures secure access to your account, protecting your sensitive information.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686504556282/d680b78d-7675-4c18-9904-9eab30f95e7a.png align="center")
 
@@ -115,14 +127,14 @@ During the development of ProManager, our team encountered various challenges th
 
 1. **Designing a User-Friendly Interface**: Creating an intuitive and user-friendly interface was crucial for ProManager. We had to strike the right balance between functionality and simplicity. Through continuous feedback and iterations, we were able to design a visually appealing and easy-to-use interface that enhances the overall user experience.
     
-2. **Integration with Appwrite Services**: Leveraging the power of Appwrite services, such as Authentication, Database, Storage, and Cloud Functions, was essential for the functionality of ProManager. Integrating these services and ensuring smooth communication between the front-end and backend required careful planning and implementation. We faced some initial challenges in configuring the API calls and handling the data flow, but with thorough testing and debugging, we successfully integrated Appwrite into our application.
+2. **Integration with Appwrite Services**: Leveraging the power of Appwrite services, such as Authentication, Database, Storage, and Cloud Functions, was essential for the functionality of ProManager. Integrating these services and ensuring smooth communication between the front-end and backend required careful planning and implementation. We faced some initial challenges in configuring the API calls and handling the data flow, but with thorough testing, debugging and the love from the **<mark>Appwrite community support</mark>** channel in Discord, we successfully integrated Appwrite into our application.
     
 3. **Managing State and Data**: As ProManager involves multiple features and data interactions, managing the application state and handling data efficiently was a significant challenge. We adopted best practices in React and Next.js, utilized React hooks, and implemented proper data structuring techniques to ensure smooth data flow and synchronization between different components.
     
 4. **Performance Optimization**: Building a highly performant application was crucial for delivering a seamless user experience. We faced challenges in optimizing the application's performance, including reducing network requests, optimizing image loading, and implementing code-splitting techniques. Through careful analysis and optimization, we were able to improve the application's speed and responsiveness.
     
 
-Despite these challenges, our team remained determined and focused, continuously learning and adapting to overcome any obstacles that came our way. The experience taught us valuable lessons in teamwork, problem-solving, and the importance of perseverance.
+Despite these challenges, our team remained determined and focused, continuously learning and adapting to overcome any obstacles that came our way. The experience taught us valuable lessons in learning new tech from documentation, problem-solving, and the importance of perseverance.
 
 By addressing these challenges head-on, we were able to create a robust and user-friendly application that meets the needs of our users. The lessons learned from overcoming these challenges will undoubtedly benefit us in future projects as well.
 
