@@ -1,5 +1,7 @@
 ---
 title: "ProManager - The Only Productivity Tool You Need"
+seoTitle: "Boost Productivity with ProManager | Appwrite x Hashnode Hackathon"
+seoDescription: "Discover ProManager, the ultimate productivity tool built with Next.js and Appwrite services for the Appwrite x Hashnode Hackathon."
 datePublished: Sun Jun 04 2023 04:11:18 GMT+0000 (Coordinated Universal Time)
 cuid: cligwoin6000209ma5ved3ukz
 slug: promanager-the-only-productivity-tool-you-need
