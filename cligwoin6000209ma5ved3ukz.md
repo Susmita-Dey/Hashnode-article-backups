@@ -5,7 +5,7 @@ seoDescription: "Discover ProManager, the ultimate productivity tool built with 
 datePublished: Sun Jun 04 2023 04:11:18 GMT+0000 (Coordinated Universal Time)
 cuid: cligwoin6000209ma5ved3ukz
 slug: promanager-the-only-productivity-tool-you-need
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685592522459/69e87878-7e5d-48b4-933f-f616bcc6a216.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686500682335/7b21e5f8-5dea-4ace-8099-005c7736aba7.png
 tags: productivity, project-management, appwrite, appwritehackathon
 
 ---
@@ -18,13 +18,19 @@ Introducing **ProManager**, a feature-packed application designed to streamline 
 
 I'm glad to participate in the [Appwrite](https://appwrite.io) x [Hashnode](https://hashnode.com) Hackathon and learn about Appwrite with Next.js and built a super cool application to boost productivity.
 
-## Team Details
+---
 
-I'm the only person on the team.
+## Team Details: Solo Developer
+
+I'm proud to say that ProManager was entirely developed by a dedicated solo developer which is myself. From conceptualization to implementation, every aspect of ProManager was meticulously crafted by me, demonstrating the passion and commitment behind this project.
+
+---
 
 ## Overview of ProManager
 
 ProManager is the ultimate productivity tool designed to supercharge your efficiency and streamline your project management. With its powerful features and intuitive interface, ProManager empowers you to stay organized, collaborate seamlessly, and achieve your goals with ease. From task management and pro-level ideas to time tracking and progress monitoring, ProManager has got you covered. Experience a whole new level of productivity and take control of your projects with ProManager. Say goodbye to chaos and hello to success.
+
+---
 
 ## The Power of ProManager
 
@@ -145,9 +151,13 @@ Watch the demo video below to see ProManager in action:
 
 For login demo credentials, you may use `doc@email.com` as email and `helloworld` as the password.
 
-ProManager is **free** and **open source**. Check out the **source code**:- https://github.com/Susmita-Dey/ProManager/
+ProManager is **free** and **open source**. Check out the [**source code**](https://github.com/Susmita-Dey/ProManager/) on GitHub.
+
+Link to the repository:- [https://github.com/Susmita-Dey/ProManager/](https://github.com/Susmita-Dey/ProManager/)
 
 We're excited to have you join the ProManager community and embark on a journey of enhanced productivity and project success. Let's make every project a resounding success with ProManager!
+
+---
 
 ## Get in Touch
 
