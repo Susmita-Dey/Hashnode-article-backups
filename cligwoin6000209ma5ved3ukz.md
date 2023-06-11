@@ -105,6 +105,8 @@ Overall, this tech stack empowers us to create a feature-rich and reliable proje
 
 At ProManager, we prioritize the security and privacy of your data. That's why we've chosen Appwrite as our backend solution. Appwrite provides a reliable and secure cloud infrastructure to store and manage your data. Leveraging Appwrite's Email Auth service, ProManager ensures secure access to your account, protecting your sensitive information.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686504556282/d680b78d-7675-4c18-9904-9eab30f95e7a.png align="center")
+
 ---
 
 ## Challenges We Faced
@@ -149,7 +151,9 @@ Watch the demo video below to see ProManager in action:
 
 [![ProManager Demo Video](https://example.com/promanager-demo-video-thumbnail.png align="left")](https://example.com/promanager-demo-video)
 
-For login demo credentials, you may use `doc@email.com` as email and `helloworld` as the password.
+For **<mark>login demo credentials</mark>**, you may use `doc@email.com` as the email and `helloworld` as the password.
+
+**Note:** These credentials will be deleted soon after a month for security purposes and it's only made for the judges. It's highly recommended to create your account.
 
 ProManager is **free** and **open source**. Check out the [**source code**](https://github.com/Susmita-Dey/ProManager/) on GitHub.
 
