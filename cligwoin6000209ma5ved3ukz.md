@@ -119,6 +119,12 @@ At ProManager, we prioritize the security and privacy of your data. That's why w
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686504556282/d680b78d-7675-4c18-9904-9eab30f95e7a.png align="center")
 
+Apart from this, there's an extra layer of security to save databases and avoid spamming which is the **email verification** procedure via Appwrite.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686509778029/b8ef14e1-9b5c-4621-ae7a-317207dc3a90.png align="center")
+
+When a user signup, an email will be sent to the registered mail having a link in it. On clicking that link, the user gets verified and gets access to all the features of ProManager. This helps in managing the database and keeping users' data safe and secure.
+
 ---
 
 ## Challenges We Faced
