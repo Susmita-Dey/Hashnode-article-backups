@@ -5,7 +5,7 @@ seoDescription: "Discover ProManager, the ultimate productivity tool built with 
 datePublished: Sun Jun 04 2023 04:11:18 GMT+0000 (Coordinated Universal Time)
 cuid: cligwoin6000209ma5ved3ukz
 slug: promanager-the-only-productivity-tool-you-need
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686500682335/7b21e5f8-5dea-4ace-8099-005c7736aba7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686584237450/95fca480-b631-4dd5-9a04-e09f9c210c3d.png
 tags: productivity, project-management, appwrite, appwritehackathon
 
 ---
