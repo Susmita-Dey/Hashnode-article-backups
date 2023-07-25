@@ -165,14 +165,6 @@ We're continuously striving to enhance ProManager and provide an even more robus
 
 Are you ready to take your project management and productivity to the next level? Visit [http://promanager.vercel.app/](http://promanager.vercel.app/) and sign up for a free account. Experience the power of ProManager firsthand and unlock your full potential.
 
-Watch the demo video below to see ProManager in action:
-
-[![ProManager Demo Video](https://example.com/promanager-demo-video-thumbnail.png align="left")](https://example.com/promanager-demo-video)
-
-For **<mark>login demo credentials</mark>**, you may use `doc@email.com` as the email and `helloworld` as the password.
-
-**Note:** These credentials will be deleted soon after a month for security purposes and it's only made for the judges. It's highly recommended to create your account.
-
 ProManager is **free** and **open source**. Check out the [**source code**](https://github.com/Susmita-Dey/ProManager/) on GitHub.
 
 Link to the repository:- [https://github.com/Susmita-Dey/ProManager/](https://github.com/Susmita-Dey/ProManager/)
