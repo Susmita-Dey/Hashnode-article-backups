@@ -26,15 +26,15 @@ Now a person often fails to be productive in their daily life. Apps and various 
 
 ## DevBytes
 
-DevBytes is a coding news app that provides updates in a short and crisp format. Developers, product managers, and engineering managers can stay up-to-date with the latest happenings in the technology world through this concise news app created specifically for them.  
-  
+DevBytes is a coding news app that provides updates in a short and crisp format. Developers, product managers, and engineering managers can stay up-to-date with the latest happenings in the technology world through this concise news app created specifically for them.
+
 Moreover, it has a cool feature of keeping each piece of news in a maximum of 64 words which is helpful for busy developers as they can go through all of them quickly within a few minutes. You may also read code snippets and execute them to try them out and watch the output in the app itself.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680938363986/16244244-6ee0-4e05-9596-29e947145244.png align="center")
 
 Other important features include the ability to bookmark news stories for easy management and one-click viewing at a later time, as well as scheduling to keep you informed with your daily digest. You also have easy control over notification settings, allowing you to choose when to receive them which is pretty cool.
 
-It has a rating of **4.7** with **100k+** downloads on the Play Store. I'd recommend trying out the [DevBytes app](https://play.google.com/store/apps/details?id=com.candelalabs.devbytes&hl=en_IN&gl=US) today.
+It has a rating of **4.7** with **100k+** downloads on the Play Store. I'd recommend trying out the [DevBytes app](https://play.google.com/store/apps/details?id=com.candelalabs.devbytes&hl=en_IN&gl=US) today. It also has a [Chrome extension](https://chrome.google.com/webstore/detail/devbytes-tech-and-ai-news/hplbpdkajdhlggncdpdmnkjldopmoomg/related) that you can use in your Chrome browser.
 
 ---
 
