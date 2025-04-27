@@ -1,4 +1,13 @@
-# Confidential : TryHackMe Room WalkThrough
+---
+title: "Confidential : TryHackMe Room WalkThrough"
+seoTitle: "tryhackme confidential room writeup"
+datePublished: Sat Aug 20 2022 05:45:49 GMT+0000 (Coordinated Universal Time)
+cuid: cl71h8qt300vyp0nv2gnvf2r9
+slug: confidential-tryhackme-room-walkthrough
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/1bjsASjhfkE/upload/v1660973038385/AqsA2qKMq.jpeg
+tags: confidential, tryhackme, write-up
+
+---
 
 Hello folks, I'm back with another TryHackMe room walkthrough named "Confidential". It's a new room recently created by [cmnatic](https://tryhackme.com/p/cmnatic). It's a pretty easy room but tricky.
 
