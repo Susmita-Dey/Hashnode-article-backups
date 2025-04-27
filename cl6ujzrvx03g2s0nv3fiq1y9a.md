@@ -1,4 +1,15 @@
-# Introductory Networking : TryHackMe Room Walkthrough
+---
+title: "Introductory Networking : TryHackMe Room Walkthrough"
+seoTitle: "Introductory Networking : TryHackMe Room Walkthrough"
+seoDescription: "This is a walkthrough for the room Introductory Networking on TryHackMe."
+datePublished: Mon Aug 15 2022 09:28:26 GMT+0000 (Coordinated Universal Time)
+cuid: cl6ujzrvx03g2s0nv3fiq1y9a
+slug: introductory-networking-tryhackme-room-walkthrough
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660555557927/ROW4pb3cI.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1660555586690/ohll8o41v.png
+tags: introduction, networking, cybersecurity-1, tryhackme
+
+---
 
 Hello everyone, I'm back with another article for you people. 
 
