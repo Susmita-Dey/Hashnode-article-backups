@@ -1,4 +1,12 @@
-# My plans for 2023 Hackathon Season
+---
+title: "My plans for 2023 Hackathon Season"
+datePublished: Sat Jul 09 2022 13:59:15 GMT+0000 (Coordinated Universal Time)
+cuid: cl5dydipb030anunvcmzk7r6y
+slug: my-plans-for-2023-hackathon-season
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ylveRpZ8L1s/upload/v1657374992603/6naDcs9vq.jpeg
+tags: hackathon, major-league-hacking, ghw-init
+
+---
 
 Hello everyone 👋 I'm back with this new article and a new challenge with you. In this article, I'll share some tips and hacks about hackathons and my experiences of participating in MLH GHW INIT 2023 hackathon.
 
