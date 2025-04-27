@@ -1,4 +1,12 @@
-# 5 most important tips every programmer should know
+---
+title: "5 most important tips every programmer should know"
+datePublished: Mon Jan 31 2022 15:14:38 GMT+0000 (Coordinated Universal Time)
+cuid: ckz2u20t90ds9ifs13qes7355
+slug: 5-most-important-tips-every-programmer-should-know
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643641982070/-MpZ4FXPg.png
+tags: productivity, opensource, self-improvement-1, programming-tips
+
+---
 
 ## 5 most important tips every programmer should know to increase their coding skills
 
