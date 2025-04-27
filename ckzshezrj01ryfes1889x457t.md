@@ -1,4 +1,12 @@
-# Getting Started With Shell Scripting(Shell Programming)
+---
+title: "Getting Started With Shell Scripting(Shell Programming)"
+datePublished: Fri Feb 18 2022 14:02:49 GMT+0000 (Coordinated Universal Time)
+cuid: ckzshezrj01ryfes1889x457t
+slug: getting-started-with-shell-scriptingshell-programming
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/4Mw7nkQDByk/upload/v1645182767347/pLt2r-U2p.jpeg
+tags: unix, linux, shell, 2articles1week, linux-basics
+
+---
 
 ## What is a Shell?
 
