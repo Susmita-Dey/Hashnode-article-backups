@@ -1,4 +1,12 @@
-# Getting Started With Python
+---
+title: "Getting Started With Python"
+datePublished: Sat Feb 19 2022 08:57:05 GMT+0000 (Coordinated Universal Time)
+cuid: ckztlxnu604pd9ss10o788ylv
+slug: getting-started-with-python
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/5uU8HSpfwkI/upload/v1645179926506/b03ADeQEEv.jpeg
+tags: programming-blogs, python, python3, 2articles1week, python-beginner
+
+---
 
 ## Introduction to Python
 > Python is a simple, well-structured, easy-to-read syntax interpreted high-level programming language.
