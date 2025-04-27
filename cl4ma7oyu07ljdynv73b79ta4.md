@@ -1,4 +1,12 @@
-# Difference Between a Framework and a Library
+---
+title: "Difference Between a Framework and a Library"
+datePublished: Mon Jun 20 2022 05:13:06 GMT+0000 (Coordinated Universal Time)
+cuid: cl4ma7oyu07ljdynv73b79ta4
+slug: difference-between-a-framework-and-a-library
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/YLSwjSy7stw/upload/v1655695772353/Nycz36Jpt.jpeg
+tags: javascript, javascript-framework, javascript-library
+
+---
 
 Developers often use the terms **framework** and **library** alternatively but many of them don't know the differences between the two. In today's article, we'll discuss them and I hope this will clear your concepts between the two.
 
