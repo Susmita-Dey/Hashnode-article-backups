@@ -1,4 +1,12 @@
-# Getting Started With C Programming Language
+---
+title: "Getting Started With C Programming Language"
+datePublished: Sat Mar 05 2022 16:17:05 GMT+0000 (Coordinated Universal Time)
+cuid: cl0e1tfp204peo5nva6p62bqp
+slug: getting-started-with-c-programming-language
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/UjJWhMerJx0/upload/v1646496930990/4Ct3AxfXM.jpeg
+tags: c, programming-blogs, programming-languages, hello-world
+
+---
 
 ## What is C?
 C is a general-purpose, procedural, middle-level programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system.
