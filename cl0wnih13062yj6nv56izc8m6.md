@@ -1,4 +1,15 @@
-# Some of my Graphic Designs and Video Editing Work on Canva
+---
+title: "Some of my Graphic Designs and Video Editing Work on Canva"
+seoTitle: "Susmita's Graphic design Work"
+seoDescription: "Get some inspiration of Graphic Design and Video Editing from the list of my work on Canva."
+datePublished: Fri Mar 18 2022 16:44:16 GMT+0000 (Coordinated Universal Time)
+cuid: cl0wnih13062yj6nv56izc8m6
+slug: some-of-my-graphic-designs-and-video-editing-work-on-canva
+canonical: https://www.showwcase.com/show/14597/some-of-my-graphic-designs-and-video-editing-work-on-canva
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/dym3_MMlJGI/upload/v1647621037404/fAwPtFxR0.jpeg
+tags: video, graphic-design, 2articles1week, ui-ux-designer
+
+---
 
 Today I wanna showcase some of my designs on Canva.
 
