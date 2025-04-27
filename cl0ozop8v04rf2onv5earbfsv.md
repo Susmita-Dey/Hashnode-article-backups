@@ -1,4 +1,14 @@
-# My Journey of Being #WomenInTech
+---
+title: "My Journey of Being #WomenInTech"
+seoTitle: "Women In Tech"
+seoDescription: "Let's get into tech without fear and build something new for the community around us."
+datePublished: Sun Mar 13 2022 08:02:53 GMT+0000 (Coordinated Universal Time)
+cuid: cl0ozop8v04rf2onv5earbfsv
+slug: my-journey-of-being-womenintech
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/5ZnS3wK6sUg/upload/v1647145394574/58JdfvIaM.jpeg
+tags: technology, general-advice, womenwhocode, learning-journey, womenwhotech
+
+---
 
 ## School Days
 I studied in [Convent of Jesus and Mary](https://www.cjmranaghat.org/) school. I was a Science student pursuing PCMB along with Computer Science as my subjects in Class 11 and 12. When I was in class 12 studying in school, I had no idea or thought that I would be into tech after an year. My ambition was to give the NEET Exam and get into a medical college. 
