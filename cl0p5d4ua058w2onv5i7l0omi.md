@@ -1,4 +1,12 @@
-# Blogging As Your Next Income 💰
+---
+title: "Blogging As Your Next Income 💰"
+datePublished: Sun Mar 13 2022 10:41:51 GMT+0000 (Coordinated Universal Time)
+cuid: cl0p5d4ua058w2onv5i7l0omi
+slug: blogging-as-your-next-income
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/lCPhGxs7pww/upload/v1646028160429/2X5s-PXe3.jpeg
+tags: blogging, documentation, hashnode, developer-blogging, blogger-1
+
+---
 
 ## What is Blogging?
 Blogging is something like documenting your learnings in an article. 
