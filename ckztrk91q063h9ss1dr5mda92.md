@@ -1,4 +1,12 @@
-# Play Song In Python Using PlaySound Module
+---
+title: "Play Song In Python Using PlaySound Module"
+datePublished: Sat Jan 29 2022 13:50:31 GMT+0000 (Coordinated Universal Time)
+cuid: ckztrk91q063h9ss1dr5mda92
+slug: play-song-in-python-using-playsound-module
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/toA-KC8Kwys/upload/v1645270553954/Z65YQ2H9I.jpeg
+tags: programming-blogs, python, python3, python-beginner, python-projects
+
+---
 
 Hello everyone!! Today we will discuss on how to play song or music using playsound module in  python. 
 
