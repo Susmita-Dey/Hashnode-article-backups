@@ -1,4 +1,13 @@
-# Return Statement in Programming Languages
+---
+title: "Return Statement in Programming Languages"
+seoTitle: "Return Statement in Function Calls"
+datePublished: Mon Jan 31 2022 13:58:41 GMT+0000 (Coordinated Universal Time)
+cuid: ckz2rcciv0n6imjs14kelexce
+slug: return-statement-in-programming-languages
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/XJXWbfSo2f0/upload/v1643637299774/s0mCJ5F4_.jpeg
+tags: programming-blogs, java, functional-programming, recursion, programming-languages
+
+---
 
 In this article we'll learn about Return Statement and how it is being used in programming and it's process of execution and termination.
 
