@@ -1,4 +1,13 @@
-# Watch Star Wars Movie In Command Prompt(cmd)
+---
+title: "Watch Star Wars Movie In Command Prompt(cmd)"
+seoTitle: "Watch Star Wars Movie In Command Prompt(cmd)"
+datePublished: Sun Feb 13 2022 08:42:15 GMT+0000 (Coordinated Universal Time)
+cuid: ckzl0rhhb0j0weks1cjl56tbk
+slug: watch-star-wars-movie-in-command-promptcmd
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1644735567109/44kKuUsu4.png
+tags: tricks, command-line, windows, terminal-command
+
+---
 
 ## Do you wanna watch STAR WARS Movie through Command Prompt?
 > If yes, then go ahead and follow the instructions below. 😊
