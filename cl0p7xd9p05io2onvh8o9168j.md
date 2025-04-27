@@ -1,4 +1,14 @@
-# Variables and Datatypes in Python
+---
+title: "Variables and Datatypes in Python"
+seoTitle: "Variables and Datatypes in Python"
+seoDescription: "Let's learn about Python variables and their datatypes."
+datePublished: Sun Mar 13 2022 11:53:34 GMT+0000 (Coordinated Universal Time)
+cuid: cl0p7xd9p05io2onvh8o9168j
+slug: variables-and-datatypes-in-python
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/vb-3qEe3rg8/upload/v1645273222959/RjQPqG7WeC.jpeg
+tags: python, python3, basics, 2articles1week, python-beginner
+
+---
 
 # Variables
 As the name suggests, variables means something that can vary. That means, something that can be changed.      
