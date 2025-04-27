@@ -1,4 +1,14 @@
-# The Ultimate Git and GitHub Developer Guide
+---
+title: "The Ultimate Git and GitHub Developer Guide"
+seoTitle: "Decoding Git and GitHub"
+seoDescription: "A Complete Guide to Git, GitHub and Open Source"
+datePublished: Mon Nov 14 2022 07:34:18 GMT+0000 (Coordinated Universal Time)
+cuid: claggzi0z000808jqffxn3q3n
+slug: the-ultimate-git-and-github-developer-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1668410958394/6zcxYoHgI.png
+tags: github, opensource, git, blogswithcc, gitcommands
+
+---
 
 Hello everyone! Hope you're doing well. Today we'll learn about Git and GitHub basics and try to deep dive into it. So, what are you waiting for? 😏
 
