@@ -1,4 +1,14 @@
-# My 3-months Open Source Journey at GSSoC'22
+---
+title: "My 3-months Open Source Journey at GSSoC'22"
+seoTitle: "Should I participate in GSSoC open source program?"
+seoDescription: "Guide to GirlScript Summer of Code"
+datePublished: Wed Jun 01 2022 07:19:51 GMT+0000 (Coordinated Universal Time)
+cuid: cl3v9diph003iwhnval7a46o2
+slug: my-3-months-open-source-journey-at-gssoc22
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1654005117970/AGetj2kLw.png
+tags: github, gsoc, opensource, experience
+
+---
 
 Hello folks!! In this blog, I want to share my journey and experiences of participating for the first in an open-source program like GirlScript Summer of Code as a contributor. 
 
