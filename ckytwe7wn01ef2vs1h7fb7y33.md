@@ -1,4 +1,12 @@
-# Make Your First Contribution To Open Source
+---
+title: "Make Your First Contribution To Open Source"
+datePublished: Tue Jan 25 2022 09:10:11 GMT+0000 (Coordinated Universal Time)
+cuid: ckytwe7wn01ef2vs1h7fb7y33
+slug: make-your-first-contribution-to-open-source
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643101681877/FMMG8JYgF.png
+tags: github, firebase, opensource, first-post-1
+
+---
 
 ## Open Source is something awesome. It will make you fall in love with it.
 
