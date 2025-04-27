@@ -1,4 +1,13 @@
-# Use Emojis Anywhere You Like In Windows
+---
+title: "Use Emojis Anywhere You Like In Windows"
+seoTitle: "How to use emoji without using any software or extension in Windows?"
+datePublished: Sun Feb 06 2022 14:33:37 GMT+0000 (Coordinated Universal Time)
+cuid: ckzbd8ddf00z5nzs1aey2ds8k
+slug: use-emojis-anywhere-you-like-in-windows
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/CUCGsuAyufc/upload/v1644157731821/AnJoqypjP.jpeg
+tags: windows, emoji
+
+---
 
 ### Intro
 Are you a Windows user and you want to use emojis anywhere you like on your system?
