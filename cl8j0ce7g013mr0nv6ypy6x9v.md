@@ -1,4 +1,12 @@
-# A complete guide for Markdown files
+---
+title: "A complete guide for Markdown files"
+datePublished: Mon Sep 26 2022 16:52:19 GMT+0000 (Coordinated Universal Time)
+cuid: cl8j0ce7g013mr0nv6ypy6x9v
+slug: a-complete-guide-for-markdown-files
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1664212240911/CKhiBcFFJ.png
+tags: markdown, blogswithcc, markdown-cheat-sheet
+
+---
 
 ## What is  Markdown?
 According to Wikipedia: 
