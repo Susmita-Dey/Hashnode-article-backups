@@ -1,4 +1,14 @@
-# Swapping Of Two Numbers In Python in One Line
+---
+title: "Swapping Of Two Numbers In Python in One Line"
+seoTitle: "Swapping Of Two Numbers In Python in One Line"
+seoDescription: "Swapping Of Two Numbers In Python in One Line Without Using any third variable"
+datePublished: Mon Jan 31 2022 14:10:40 GMT+0000 (Coordinated Universal Time)
+cuid: ckz2rrrfm0cunifs12wvz9x46
+slug: swapping-of-two-numbers-in-python-in-one-line
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643638110186/H0hdPKBFOl.png
+tags: tutorial, python, python3, python-beginner
+
+---
 
 ## Do you know that using only just 1 line of code in Python you can Swap 2 numbers without using any third variable?
 
