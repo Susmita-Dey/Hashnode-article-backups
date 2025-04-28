@@ -172,7 +172,7 @@ def get_database():
         db.disconnect()
 
 @app.get("/chai")
-def read_chai(db=Depends(get_database), message=""):
+def read_chai(db=Depends(get_database)):
     return {"db": db.connect(), "message": "Chai is ready!"}
 ```
 
