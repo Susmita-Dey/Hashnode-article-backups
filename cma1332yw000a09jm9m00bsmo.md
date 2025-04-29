@@ -6,7 +6,6 @@ datePublished: Mon Apr 28 2025 12:58:02 GMT+0000 (Coordinated Universal Time)
 cuid: cma1332yw000a09jm9m00bsmo
 slug: dependency-injections-made-easy-how-they-work
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/MfnX4XtGnvU/upload/1981c1fc6f63981c02b956b2b1a42fd6.jpeg
-tags: software-development, python, web-development, clean-code, fastapi, dependencyinjection, chaicode
 
 ---
 
